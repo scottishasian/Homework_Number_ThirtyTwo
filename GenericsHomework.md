@@ -4,7 +4,7 @@
 1)  Using generics can make a class more flexible and dynamic, as types can change depending on need.
 
 //Name an example of a generic class that we have used in Java?
-2)  
+2)  ArrayLists
 
 //What is the syntax for declaring a generic class?
 3)  The syntax for using generics is the angled brackets <>.
